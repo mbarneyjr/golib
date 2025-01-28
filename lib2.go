@@ -1,5 +1,5 @@
 package barney
 
 func Blah() string {
-	return "BLAH, Barney!"
+	return "FOOEY, Barney!"
 }
